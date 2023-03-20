@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.entornos.victor.poligonos.figuras","l":"Circulo"},{"p":"com.entornos.victor.poligonos.main","l":"Main"},{"p":"com.entornos.victor.poligonos.figuras","l":"Rectangulo"}];updateSearchResults();
